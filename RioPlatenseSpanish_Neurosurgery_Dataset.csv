@@ -1,0 +1,125 @@
+number,phrase,ground_truth,neurocirugia,presente,formal,informal,marcas_discursivas_rioplatenses,negacion,voz_pasiva
+0,Me operaron de neurocirugía en la cabeza.,4,1,0,0,0,0,0,0
+1,Me operé de un tumor en el cráneo.,4,1,0,0,0,0,0,0
+2,Me abrieron para una intervención en el encéfalo.,4,1,0,0,0,0,0,0
+3,Tuve una operación en el cerebro.,4,1,0,0,0,0,0,0
+4,Me hicieron una cirugía en el mate.,4,1,0,0,0,0,0,0
+5,Me operaron la capocha.,4,1,0,0,0,0,0,0
+6,Tuve una cirugía en el bocho.,4,1,0,0,0,0,0,0
+7,Me abrieron el coco para una intervención.,4,1,0,0,0,0,0,0
+8,Me operé la testa.,4,1,0,0,0,0,0,0
+9,Me abrieron para una operación cerebral.,4,1,0,0,0,0,0,0
+10,Tuve una neurocirugía en la mollera.,4,1,0,0,0,0,0,0
+11,Me operaron la mollera.,4,1,0,0,0,0,0,0
+12,Me sacaron un tumor durante la cirugía en la cabeza.,4,1,0,0,0,0,0,0
+13,Me hicieron una cirugía en el cráneo y me sacaron un tumor.,4,1,0,0,0,0,0,0
+14,"Resulta que me operaron en el cráneo, no fue nada agradable.",4,1,0,0,0,1,0,0
+15,"Me hicieron una cirugía en la nuca, ¿te lo puedes creer?",4,1,0,0,0,1,0,0
+16,"Me abrieron la sien, ¡fue una operación fuerte!",4,1,0,0,0,1,0,0
+17,Lo que pasa es que tuve una cirugía en la frente.,4,1,0,0,0,1,0,0
+18,Fíjate que me hicieron una intervención en el parietal y me asusté mucho.,4,1,0,0,0,1,0,0
+19,¡Me abrieron la capocha y aún me duele!,4,1,0,0,0,1,0,0
+20,"Mira, me operé del bocho y me quedó una cicatriz.",4,1,0,0,0,1,0,0
+21,"No te lo imaginas, me operaron la bocha, y quedé mal.",4,1,0,0,0,1,0,0
+22,"Me hicieron una cirugía en el encéfalo, y me asusté bastante, la verdad.",4,1,0,0,0,1,0,0
+23,"Me operaron en la cabeza. Fue una operación, y me dolió horrores.",4,1,0,0,0,1,0,0
+24,"Resulta que tuve una cirugía en el cerebro, una experiencia nada agradable.",4,1,0,0,0,1,0,0
+25,"Me operé la cabeza, y quedó una marca enorme.",4,1,0,0,0,1,0,0
+26,"Fíjate que me operaron en las sienes, ¡qué dolor!",4,1,0,0,0,1,0,0
+27,"Mira, me abrieron la frente, y me llevé un buen susto.",4,1,0,0,0,1,0,0
+28,"No puedo creerlo, me operaron el bocho y aún me duele.",4,1,0,0,0,1,0,0
+29,"No te lo vas a creer, me operaron la bocha.",4,1,0,0,0,1,0,0
+30,Me hicieron una cirugía en el cráneo y casi me pongo a llorar.,4,1,0,0,0,1,0,0
+31,Me operé del encéfalo.,4,1,0,0,0,1,0,0
+32,"No puedo creerlo, me operaron en la capocha, y me dolió muchísimo.",4,1,0,0,0,1,0,0
+33,"Fui operado en el cráneo, no fue nada agradable.",4,1,0,0,0,1,0,1
+34,Me realizaron una cirugía en la nuca.,4,1,0,0,0,1,0,1
+35,"Me abrieron la sien, ¡fue una operación fuerte!",4,1,0,0,0,1,0,1
+36,Resulta que me hicieron una cirugía en la frente.,4,1,0,0,0,1,0,1
+37,Fíjate que fui sometido a una intervención en el parietal y me asusté mucho.,4,1,0,0,0,1,0,1
+38,Fíjate que fui sometido a una intervención quirúrgica.,4,1,0,0,0,1,0,1
+39,Fui sometido a una intervención en la cabeza.,4,1,0,0,0,1,0,1
+40,"Mira, me operé del bocho.",4,1,0,0,0,1,0,1
+41,"Me realizaron una cirugía en el encéfalo, y me asusté bastante, la verdad.",4,1,0,0,0,1,0,1
+42,Fui sometido a una operación en la cabeza.,4,1,0,0,0,1,0,1
+43,Resulta que tuve una cirugía en el cerebro.,4,1,0,0,0,1,0,1
+44,Fui operado en la cabeza.,4,1,0,0,0,1,0,1
+45,"Fíjate que fui sometido a una intervención en las sienes, ¡qué dolor!",4,1,0,0,0,1,0,1
+46,"No puedo creerlo, fui operado del bocho.",4,1,0,0,0,1,0,1
+47,"No te lo vas a creer, me operaron la bocha.",4,1,0,0,0,1,0,0
+48,Fui sometido a una operación del encéfalo.,4,1,0,0,0,1,0,1
+49,Me operan de neurocirugía en la cabeza.,4,1,1,0,0,0,0,0
+50,Me opero de una cirugía en el cráneo.,4,1,1,0,0,0,0,0
+51,Me abren para una intervención en el encéfalo.,4,1,1,0,0,0,0,0
+52,Tengo una operación en el cerebro.,4,1,1,0,0,0,0,0
+53,Me hacen una cirugía en la cabeza.,4,1,1,0,0,0,0,0
+54,Me operan de neurocirugía en la capocha.,4,1,1,0,0,0,0,0
+55,Tengo una cirugía en el bocho.,4,1,1,0,0,0,0,0
+56,Me abren para una intervención en el coco.,4,1,1,0,0,0,0,0
+57,Me opero de una cirugía en la testa.,4,1,1,0,0,0,0,0
+58,Me abren para una operación cerebral.,4,1,1,0,0,0,0,0
+59,Me operan de neurocirugía en la mollera.,4,1,1,0,0,0,0,0
+60,Me sacan un tumor durante la cirugía en la cabeza.,4,1,1,0,0,0,0,0
+61,Me opero de una cirugía en el cráneo y me sacan un tumor.,4,1,1,0,0,0,0,0
+62,Fui sometido a una neurocirugía en la cabeza.,4,1,0,1,0,0,0,0
+63,Me realicé una cirugía en el cráneo.,4,1,0,1,0,0,0,0
+64,Fui sometido a una intervención en el encéfalo.,4,1,0,1,0,0,0,0
+65,He tenido una operación en el cerebro.,4,1,0,1,0,0,0,0
+66,Me practicaron una cirugía en el mate.,4,1,0,1,0,0,0,0
+67,Fui sometido a una neurocirugía en la capocha.,4,1,0,1,0,0,0,0
+68,He tenido una cirugía en el bocho.,4,1,0,1,0,0,0,0
+69,Me sometieron a una intervención en el coco.,4,1,0,1,0,0,0,0
+70,Me realicé una cirugía en la testa.,4,1,0,1,0,0,0,0
+71,Fui sometido a una operación cerebral.,4,1,0,1,0,0,0,0
+72,Me extrajeron un tumor durante la cirugía en la cabeza.,4,1,0,1,0,0,0,0
+73,Me realicé una cirugía en el cráneo y me extrajeron un tumor.,4,1,0,1,0,0,0,0
+74,Me re operaron de neurocirugía en la cabeza.,4,1,0,0,1,1,0,0
+75,Me operé de una cirugía en el marote.,4,1,0,0,1,1,0,0
+76,Me abrieron para una intervención en el bocho.,4,1,0,0,1,1,0,0
+77,Me metieron mano en el cerebro.,4,1,0,0,1,1,0,0
+78,Me hicieron una cirugía en el mate.,4,1,0,0,1,1,0,0
+79,Me mandé una cirugía en el bocho.,4,1,0,0,1,1,0,0
+80,Me abrieron para una intervención en el coco.,4,1,0,0,1,1,0,0
+81,Me clavaron una cirugía en la testa.,4,1,0,0,1,1,0,0
+82,Me mandaron para una operación cerebral.,4,1,0,0,1,1,0,0
+83,Me re sacaron un tumor durante la cirugía craneal.,4,1,0,0,1,1,0,0
+84,Me operé del marote y me sacaron un tumor.,4,1,0,0,1,1,0,0
+85,No me sometieron a una neurocirugía en la cabeza.,-1,1,0,0,0,0,1,0
+86,En absoluto me operé de un tumor en el cráneo.,-1,1,0,0,0,0,1,0
+87,En ningún momento me abrieron para una intervención en el encéfalo.,-1,1,0,0,0,0,1,0
+88,Definitivamente no tuve una operación en el cerebro.,-1,1,0,0,0,0,1,0
+89,Me salvé de que me hicieran una cirugía en la cabeza.,-1,1,0,0,0,0,1,0
+90,Jamás me operaron la capocha.,-1,1,0,0,0,0,1,0
+91,En la vida tuve una cirugía en el bocho.,-1,1,0,0,0,0,1,0
+92,Ni pensaron en abrirme el coco para una intervención.,-1,1,0,0,0,0,1,0
+93,No llegué a operarme la testa.,-1,1,0,0,0,0,1,0
+94,Nadie me abrió para una operación cerebral.,-1,1,0,0,0,0,1,0
+95,Nunca experimenté una neurocirugía.,-1,1,0,0,0,0,1,0
+96,Ni por asomo me operaron la mollera.,-1,1,0,0,0,0,1,0
+97,No me extrajeron ningún tumor durante la cirugía en la cabeza.,-1,1,0,0,0,0,1,0
+98,"No solo no me hicieron una cirugía en el cráneo, sino que tampoco me sacaron un tumor.",-1,1,0,0,0,0,1,0
+99,Ni en pedo me operaron de neurocirugía en la cabeza.,-1,1,0,1,1,0,1,0
+100,No me operé ni en joda la cabeza.,-1,1,0,1,1,0,1,0
+101,Ni ahí me abrieron para una intervención en el bocho.,-1,1,0,1,1,0,1,0
+102,Nada de neurocirugías.,-1,1,0,1,1,0,1,0
+103,Ninguna neurocirugía.,-1,1,0,1,1,0,1,0
+104,Ni en pedo me hicieron una cirugía en la cabeza.,-1,1,0,1,1,0,1,0
+105,Ni en pedo me someto a una cirugía en la cabeza.,-1,1,0,1,1,0,1,0
+106,Ni ahí me mandé una cirugía en el bocho.,-1,1,0,1,1,0,1,0
+107,Tampoco hubo cirugía.,-1,1,0,1,1,0,1,0
+108,Tampoco me abrieron para una intervención en el coco.,-1,1,0,1,1,0,1,0
+109,No me sacaron un tumor ni a palos.,-1,1,0,1,1,0,1,0
+110,Ni ahí me expongo a que me saquen el tumor.,-1,1,0,1,1,0,1,0
+111,Ni ahí me expongo a que me toquen el cráneo.,-1,1,0,1,1,0,1,0
+112,"Ni ahí, me abren para una intervención en el bocho.",-1,1,0,1,1,1,1,0
+113,"Nada de neurocirugías, ni loco.",-1,1,0,1,1,1,1,0
+114,"Ninguna cirugía, olvidate.",-1,1,0,1,1,1,1,0
+115,"Ninguna neurocirugía, ni en sueños.",-1,1,0,1,1,1,1,0
+116,"Ni en pedo, loco, me hacen una cirugía en la cabeza.",-1,1,0,1,1,1,1,0
+117,"Ni en pedo, ni loco, me someto a una cirugía en la cabeza.",-1,1,0,1,1,1,1,0
+118,"Ni ahí, che, me dejo que me hagan una cirugía en el bocho.",-1,1,0,1,1,1,1,0
+119,"Tampoco hubo cirugía, qué alivio.",-1,1,0,1,1,1,1,0
+120,"Tampoco me abrieron para una intervención en el coco, menos mal.",-1,1,0,1,1,1,1,0
+121,"No me sacaron un tumor ni a palos, por suerte.",-1,1,0,1,1,1,1,0
+122,"Ni ahí, ni loco, me expongo a que me saquen el tumor.",-1,1,0,1,1,1,1,0
+123,"Ni ahí, ni en pedo, me expongo a que me toquen el cráneo.",-1,1,0,1,1,1,1,0
