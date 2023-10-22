@@ -21,8 +21,8 @@ The dataset comprises variations in:
 | negación                              | negation                      |
 | voz_pasiva                            | passive voice                 |
 
-'ground_truth' has 2 possible values: 
+'ground_truth' has two possible values: 
 "4" means that they underwent a neurosurgery procedure.
 "-1" means that they did NOT underwent a neurosurgery procedure.
 
-For every other tag, 1 means that the phrase has the linguistic structure named in the tag, 0 means it doesn't. 
+For every other tag, "1" means that the phrase has the linguistic structure named in the tag, "0" means it doesn't. 
