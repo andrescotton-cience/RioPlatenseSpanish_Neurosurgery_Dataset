@@ -1,6 +1,6 @@
 # RioPlatenseSpanish_Neurosurgery_Dataset
 
-This Dataset of Rioplatense Spanish for medical triage tasks contains 123 phrases of patients that state or deny that they underwent a neurosurgery procedure.
+This Dataset of Rioplatense Spanish for medical triage tasks contains 122 phrases of patients that state or deny that they underwent a neurosurgery procedure.
 
 The dataset comprises variations in: 
 (1) lexemes; 
