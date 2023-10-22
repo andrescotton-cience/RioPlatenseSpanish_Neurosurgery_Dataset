@@ -11,7 +11,7 @@ The dataset comprises variations in:
 (6) formal and informal registers. 
 
 
-+---------------------------------------+------------------------------+
+'''+---------------------------------------+------------------------------+
 | TAG                                   | TRANSLATION                   |
 +---------------------------------------+------------------------------+
 | ground_truth                          | ground_truth                  |
@@ -21,7 +21,7 @@ The dataset comprises variations in:
 | marcas_discursivas_rioplatenses       | Rioplatense discursive markers|
 | negación                              | negation                      |
 | voz_pasiva                            | passive voice                 |
-+---------------------------------------+------------------------------+
++---------------------------------------+------------------------------+'''
 
 ground_truth has 3 possible values: 
 "4" means that they underwent a neurosurgery procedure.
